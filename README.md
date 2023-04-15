@@ -1,5 +1,5 @@
 <h1 align="center">  KrishiMitra API</h1>
-
+<h1 align="center"><img src = "https://github.com/0xSushmanth/Krishi-Mitra-API/blob/master/Krishi%20Mitra.png"></h1>
 Krishi-Mitra-AI is API implementation for [KRISHI MITRA-ML](https://github.com/0xSushmanth/Krishi-Mitra-ML) predicting crop types based on soil and weather parameters such as nitrogen (N), phosphorous (P), potassium (K) levels in soil, temperature, humidity, pH, and rainfall.
 This repository contains the code for the FastAPI backend of the Krishi-Mitra-ML application.
 
